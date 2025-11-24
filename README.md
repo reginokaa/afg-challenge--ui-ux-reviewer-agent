@@ -68,18 +68,6 @@ Follow these steps to submit a screenshot to the AI agent:
 
 ---
 
-## 📁 Project Structure
-
-```
-/ui-ux-review-agent
-├── README.md        # Documentation
-├── agent-config/    # System prompt, tools, and model settings
-├── examples/        # Sample screenshots for testing
-└── frontend/        # Optional UI for uploading and reviewing images
-```
-
----
-
 ## 🚀 Getting Started
 
 1. Clone or download this project.  
